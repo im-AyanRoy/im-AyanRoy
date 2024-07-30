@@ -1,6 +1,7 @@
 - 👋 Hi, I’m -> AyanRoy, 1st Year B Tech CSE student
 - 👀 I’m interested in -> Software Development, Coding, DSA, Web Dev
-- 🌱 I’m currently learning -> C++ & HTML
+- 🤹 Languages -> C,C++,HTML,CSS
+- 🌱 I’m currently learning -> JavaScript(js)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> ayanroysince2003official@gmail.com
 - 😄 Pronouns: -> He/Him
