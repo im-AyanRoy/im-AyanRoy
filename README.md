@@ -1,6 +1,6 @@
-- 👋 Hi, I’m -> AyanRoy, 1st Year B Tech CSE student
+- 👋 Hi, I’m -> AyanRoy, 1st Year B Tech student
 - 👀 I’m interested in -> Software Development, Coding, DSA, Web Dev
-- 🤹 Languages -> C,C++,HTML,CSS
+- 🤹 Languages -> C,C++,Java,HTML,CSS
 - 🌱 I’m currently learning -> JavaScript(js)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> ayanroysince2003official@gmail.com
